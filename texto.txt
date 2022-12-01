@@ -1,4 +1,7 @@
-Eu sou um arquivo de texto que far· parte de um repositÛrio.
+Eu sou um arquivo de texto que far√° parte de um reposit√≥rio.
 
-Eu sou a primeira modificaÁ„o.
-Eu estou na ramificaÁ„o 'main'.
+Eu sou a primeira modifica√ß√£o.
+Eu estou na ramifica√ß√£o 'main'.
+
+
+Altera√ßao do Github para testar o pull.
